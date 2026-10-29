@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+# bulk generated data: deterministic, regenerate with make full / make repro
+output/full/csv/
+output/full/json/
+output/full/sql/
+output/full/seed.sqlite
+output/full_rerun/
+output/starter/
